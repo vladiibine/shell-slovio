@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Download word dictionary from http://www.slovio.com/1/0.slovio/d-main.zip
 
 import codecs
